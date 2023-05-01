@@ -1,0 +1,11 @@
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\bin\Debug\use-a-cabeca-capitulo-02.exe.config
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\bin\Debug\use-a-cabeca-capitulo-02.exe
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\bin\Debug\use-a-cabeca-capitulo-02.pdb
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\obj\Debug\use-a-cabeca-capitulo-02.csproj.AssemblyReference.cache
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\obj\Debug\use-a-cabeca-capitulo-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\obj\Debug\use_a_cabeca_capitulo_02.Form1.resources
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\obj\Debug\use_a_cabeca_capitulo_02.Properties.Resources.resources
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\obj\Debug\use-a-cabeca-capitulo-02.csproj.GenerateResource.cache
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\obj\Debug\use-a-cabeca-capitulo-02.csproj.CoreCompileInputs.cache
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\obj\Debug\use-a-cabeca-capitulo-02.exe
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-capitulo-02\use-a-cabeca-capitulo-02\obj\Debug\use-a-cabeca-capitulo-02.pdb
