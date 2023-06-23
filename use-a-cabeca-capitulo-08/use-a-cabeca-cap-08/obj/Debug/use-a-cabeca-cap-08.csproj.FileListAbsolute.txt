@@ -1,0 +1,8 @@
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-cap-08\use-a-cabeca-cap-08\bin\Debug\use-a-cabeca-cap-08.exe.config
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-cap-08\use-a-cabeca-cap-08\bin\Debug\use-a-cabeca-cap-08.exe
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-cap-08\use-a-cabeca-cap-08\bin\Debug\use-a-cabeca-cap-08.pdb
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-cap-08\use-a-cabeca-cap-08\obj\Debug\use-a-cabeca-cap-08.csproj.AssemblyReference.cache
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-cap-08\use-a-cabeca-cap-08\obj\Debug\use-a-cabeca-cap-08.csproj.SuggestedBindingRedirects.cache
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-cap-08\use-a-cabeca-cap-08\obj\Debug\use-a-cabeca-cap-08.csproj.CoreCompileInputs.cache
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-cap-08\use-a-cabeca-cap-08\obj\Debug\use-a-cabeca-cap-08.exe
+C:\Users\davip\source\repos\book-head-first-c-sharp-exercises\use-a-cabeca-cap-08\use-a-cabeca-cap-08\obj\Debug\use-a-cabeca-cap-08.pdb
